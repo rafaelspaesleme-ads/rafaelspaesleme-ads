@@ -22,7 +22,7 @@
 <hr/>
 <br/>
 <strong>Veja abaixo, o que ando aprontando no Github</strong>
-<img width="50px" src="https://emoji.gg/assets/emoji/8237_among_us_vibing.gif"  alt="among"/>👍
+<img width="50px" src="https://emoji.gg/assets/emoji/8237_among_us_vibing.gif"  alt="among"/>
 <br/>
 <br/>
 <li/>Estatisticas:
@@ -140,11 +140,11 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
 </p>
 <br/>
 <span>
-    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build1"/>👍
+    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build1"/>
     <br/>
     <strong>Ultima observação:</strong> Em breve terminarei de desenvolver meu portfólio e atualizarei este readme.
     <br/>
-    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build2"/>👍
+    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build2"/>
 </span>
 <br/>
 <br/>
@@ -152,5 +152,5 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
 <br/>
 <i>Valeu pessoal!</i>
 <br/>
-<img width="50px" src="https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif"  alt="joinha"/>👍
+<img width="50px" src="https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif"  alt="joinha"/>
 </html>
