@@ -29,7 +29,7 @@
 <br/>
 <center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelspaesleme-ads&layout=compact&theme=onedark&locale=pt-BR" alt="principais-linguagens" />&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=rafaelspaesleme-ads&show_icons=true&theme=onedark&locale=pt-BR" alt="meus-honorarios" />
+    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=rafaelspaesleme-ads&show_icons=true&theme=onedark&locale=pt-BR" alt="meus-honorarios" />
 </center>
 <br/>
 <br/>
