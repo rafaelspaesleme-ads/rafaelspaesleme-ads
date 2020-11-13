@@ -19,10 +19,10 @@
     e toda a arquitetura por traz da nuvem!</i>
 </p>
 <br/>
-<hr />
+<hr/>
 <br/>
 <strong>Veja abaixo, o que ando aprontando no Github</strong>
-<img width="50px" src="https://emoji.gg/assets/emoji/8237_among_us_vibing.gif" />👍
+<img width="50px" src="https://emoji.gg/assets/emoji/8237_among_us_vibing.gif"  alt="among"/>👍
 <br/>
 <br/>
 <li/>Estatisticas:
@@ -123,28 +123,28 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
 
 <p align="center">
   <a href="https://twitter.com/PaesSerdeiro" target="_blank">
-    <img src="https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white"  alt="twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/rafaelspaeslemeads/" target="_blank">
-    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white"  alt="linkedin"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=5524981615515" target="_blank">
-    <img src="https://img.shields.io/badge/-WHATSAPP-success?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WHATSAPP-success?style=for-the-badge&logo=Whatsapp&logoColor=white"  alt="whatsapp"/>
   </a>
   <a href="https://www.instagram.com/rafaelspaesleme/" target="_blank">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-blueviolet?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-INSTAGRAM-blueviolet?style=for-the-badge&logo=Instagram&logoColor=white"  alt="instagram"/>
   </a>
   <a href="mailto:rafaelspaesleme.ads@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"  alt="gmail"/>
   </a>
 </p>
 <br/>
 <span>
-    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png" />👍
+    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build1"/>👍
     <br/>
     <strong>Ultima observação:</strong> Em breve terminarei de desenvolver meu portfólio e atualizarei este readme.
     <br/>
-    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png" />👍
+    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build2"/>👍
 </span>
 <br/>
 <br/>
@@ -152,5 +152,5 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
 <br/>
 <i>Valeu pessoal!</i>
 <br/>
-<img width="50px" src="https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif" />👍
+<img width="50px" src="https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif"  alt="joinha"/>👍
 </html>
