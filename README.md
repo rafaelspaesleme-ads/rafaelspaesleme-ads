@@ -147,6 +147,12 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
     <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build2"/>
 </span>
 <br/>
+<span>
+    <center>
+        <img src="https://dev-my-blog.s3-sa-east-1.amazonaws.com/GIT.gif" alt="git"/>
+    </center>
+</span>
+<br/>
 <br/>
 <br/>
 <br/>
