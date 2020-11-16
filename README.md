@@ -24,7 +24,6 @@
 <strong>Veja abaixo, o que ando aprontando no Github</strong>
 <img width="50px" src="https://emoji.gg/assets/emoji/8237_among_us_vibing.gif"  alt="among"/>
 <br/>
-<br/>
 <li/>Estatisticas:
 <br/>
 <center>
