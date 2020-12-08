@@ -90,12 +90,13 @@ contact me.
 
 <a href="https://carolinerufino.adv.br/" target="_blank">Site de Escritório de Advocacia</a>
 <br/>
-<u style="color='yellow'"> Versão: 1.0.0</u> A documentação completa deste projeto você encontra <a href="https://bityli.com/rk4Gk" target="_blank">aqui</a>
+<u style="color='yellow'"> Versão: 1.0.0</u>
+<span>A documentação completa deste projeto você encontra <a href="https://bityli.com/rk4Gk" target="_blank">aqui</a></span>
 <br/>
 <br/>
 <a href="https://mobway.fitness/" target="_blank">Aplicativo Web Mobile para Personal Trainer e Alunos</a>
 <br/>
-<u style="color='yellow'"> Versão: BETA</u>
+<u style="color='yellow'">Versão: BETA</u>
 <br/>
 <br/>
 Tecnologias envolvidas nos dois projetos:
