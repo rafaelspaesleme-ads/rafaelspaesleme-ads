@@ -93,10 +93,12 @@ contact me.
 A documentação completa deste projeto você encontra <a href="https://bityli.com/rk4Gk" target="_blank">aqui</a>
 <br/>
 <br/>
-<a href="https://mobway.fitness/" target="_blank">Aplicativo Web Mobile para Personal Trainer e Alunos <u style="color: yellow">EM DEV</u></a>
+<a href="https://mobway.fitness/" target="_blank">Aplicativo Web Mobile para Personal Trainer e Alunos</a><u style="color: yellow"> EM DEV</u>
 <br/>
 Tecnologias envolvidas nos dois projetos:
-
+<br/>
+<br/>
+<br/>
 CLOUD | DEVOPS | DATABASE |  BACKEND | FRONTEND
 --- | --- | --- | --- | ---
 AWS | Docker | PostgreSQL | Java | React Hooks
