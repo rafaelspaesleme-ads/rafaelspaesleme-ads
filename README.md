@@ -96,7 +96,6 @@ A documentação completa deste projeto você encontra <a href="https://bityli.c
 <a href="https://mobway.fitness/" target="_blank">Aplicativo Web Mobile para Personal Trainer e Alunos</a><u style="color: yellow"> EM DEV</u>
 <br/>
 <br/>
-<br/>
 Tecnologias envolvidas nos dois projetos:
 <br/>
 CLOUD | DEVOPS | DATABASE |  BACKEND | FRONTEND
