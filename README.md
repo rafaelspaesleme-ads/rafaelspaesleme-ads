@@ -101,9 +101,9 @@ Tecnologias envolvidas nos dois projetos:
 CLOUD | DEVOPS | DATABASE |  BACKEND | FRONTEND
 --- | --- | --- | --- | ---
 AWS | Docker | PostgreSQL | Java | React Hooks
-Digital Ocean | Nginx | HyperSQL | Apache Maven | RSuiteJs (blog)
-Avante Web Services | Github | Amazon RDS | Spring Boot | React Semantic (home page)
-Heroku | Jenkins | -- | Amazon S3 | Material UI (admin)
+Digital Ocean | Nginx | HyperSQL | Apache Maven | RSuiteJs
+Avante Web Services | Github | Amazon RDS | Spring Boot | React Semantic
+Heroku | Jenkins | -- | Amazon S3 | Material UI
 Raspberry Pi | Travis CI | -- | Shell Script | JavaScript
 -- | Dynos | -- | SSL | Styled Component
 -- | -- | -- | -- | SASS
