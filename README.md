@@ -89,8 +89,13 @@ contact me.
 <li/> FULLSTACK
 
 <a href="https://carolinerufino.adv.br/" target="_blank">Site de Escritório de Advocacia</a>
-
-Tecnologias envolvidas:
+<br/>
+A documentação completa deste projeto você encontra <a href="https://bityli.com/rk4Gk" target="_blank">aqui</a>
+<br/>
+<br/>
+<a href="https://mobway.fitness/" target="_blank">Aplicativo Web Mobile para Personal Trainer e Alunos <u style="color: yellow">EM DEV</u></a>
+<br/>
+Tecnologias envolvidas nos dois projetos:
 
 CLOUD | DEVOPS | DATABASE |  BACKEND | FRONTEND
 --- | --- | --- | --- | ---
@@ -104,9 +109,6 @@ Raspberry Pi | Travis CI | -- | Shell Script | JavaScript
 -- | -- | -- | -- | PHP
 -- | -- | -- | -- | HTML5
 -- | -- | -- | -- | SSL
-
-A documentação completa deste projeto você encontra <a href="https://bityli.com/rk4Gk" target="_blank">aqui</a>
-
 
 <li/> CLOUD
 
