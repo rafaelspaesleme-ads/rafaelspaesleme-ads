@@ -54,9 +54,11 @@ Porém, alguns deles estão publicados, e pode ser visto nos links abaixo:
 <br/>
 <li/> BACKEND
 
-<span id="api-mail" />
+<br/>
+<span id="api-mail" >API de Envio de Email - v1.0.0</span>
+<br/>
 
-<a href="https://rpl-server-mail.herokuapp.com" target="_blank">API de Envio de Email - v1.0.0</a>
+<a href="https://rpl-server-mail.herokuapp.com" target="_blank">Acessar</a>
 
 
 Parametros da API:
