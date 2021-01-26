@@ -166,6 +166,7 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
 </span>
 <br/>
 <br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelspaesleme-ads.rafaelspaesleme-ads)
 <br/>
 <br/>
 <i>Valeu pessoal!</i>
