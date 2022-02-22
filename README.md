@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html>
-<script>
-document.getElementById('datebirth').innerHTML = (new Date().getFullYear() - 1989)
-</script>
 <body>
 <h3>Olá!</h3>
 
 <br/>
-    <strong>Sou Rafael Serdeiro Paes Leme, tenho  <b id="datebirth"></b> anos,</strong>
+    <strong>Sou Rafael Serdeiro Paes Leme, tenho  <b id="datebirth">33</b> anos,</strong>
 <p style="text-align: justify">
     Trabalho a pouco mais de 10 anos na área da Tecnologia da Informação.
     <br/> 
