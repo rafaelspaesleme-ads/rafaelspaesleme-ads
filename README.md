@@ -1,8 +1,11 @@
 <html>
+<script>
+    document.getElementById('birthdate').innerHTML = (new Date().getFullYear() - 1989)
+</script>
 <h3>Olá!</h3>
 
 <br/>
-    <strong>Sou Rafael Serdeiro Paes Leme, tenho  <p id="birthdate"></p> anos,</strong>
+    <strong>Sou Rafael Serdeiro Paes Leme, tenho  <b id="birthdate"></b> anos,</strong>
 <p style="text-align: justify">
     Trabalho a pouco mais de 10 anos na área da Tecnologia da Informação.
     <br/> 
@@ -171,10 +174,6 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
 <i>Valeu pessoal!</i>
 <br/>
 <img width="50px" src="https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif"  alt="joinha"/>
-    
-<script>
-document.getElementById('birthdate').innerHTML = (new Date().getFullYear() - 1989)
-</script>
 </html>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelspaesleme-ads.rafaelspaesleme-ads)
