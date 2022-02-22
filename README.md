@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<body>
 <script>
 document.getElementById('datebirth').innerHTML = (new Date().getFullYear() - 1989)
 </script>
+<body>
 <h3>Olá!</h3>
 
 <br/>
