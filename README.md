@@ -2,7 +2,7 @@
 <h3>Olá!</h3>
 
 <br/>
-    <strong>Sou Rafael Serdeiro Paes Leme, tenho  {%new Date().getFullYear() - 1989%} anos,</strong>
+    <strong>Sou Rafael Serdeiro Paes Leme, tenho  {% new Date().getFullYear() - 1989 %} anos,</strong>
 <p style="text-align: justify">
     Trabalho a pouco mais de 10 anos na área da Tecnologia da Informação.
     <br/> 
