@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    
+<body>
 <script>
 document.getElementById('datebirth').innerHTML = (new Date().getFullYear() - 1989)
 </script>
@@ -176,6 +176,7 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
 <i>Valeu pessoal!</i>
 <br/>
 <img width="50px" src="https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif"  alt="joinha"/>
+</body>
 </html>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelspaesleme-ads.rafaelspaesleme-ads)
