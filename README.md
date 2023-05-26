@@ -158,12 +158,6 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
     <strong>Ultima observação:</strong> Em breve terminarei de desenvolver meu portfólio e atualizarei este readme.
 </span>
 <br/>
-<span>
-    <center>
-        <img src="https://dev-my-blog.s3-sa-east-1.amazonaws.com/GIT.gif" alt="git"/>
-    </center>
-</span>
-<br/>
 <br/>
 <br/>
 <br/>
