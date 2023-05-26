@@ -156,9 +156,6 @@ Para maiores informações, entre em contato comigo, através dos endereços aba
     <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build1"/>
     <br/>
     <strong>Ultima observação:</strong> Em breve terminarei de desenvolver meu portfólio e atualizarei este readme.
-    <p>Enquanto isso fiquem com uma pequena demonstração do meu github, no GIF abaixo:</p>
-    <br/>
-    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build2"/>
 </span>
 <br/>
 <span>
