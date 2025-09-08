@@ -27,10 +27,10 @@ Sempre fui apaixonado por tecnologia — em especial por:
 Uma plataforma para **criadores de conteúdo** montarem seu próprio **jornal virtual**, com ferramentas modernas de publicação.  
 ➡️ Versão Beta: [gopress.app](https://gopress.app)
 
-### 🗄️ File Cabinet
+### 🗄️ File Cabinet (Em breve)
 Plataforma de **armazenamento de arquivos na nuvem**, com **upload/download**, **compartilhamento seguro** e **organização em pastas**.  
 
-### 🛠️ Hospedagem Cloud
+### 🛠️ Hospedagem Cloud (Em breve)
 Plataforma de **hospedagem de APIs, bancos de dados (SQL/NoSQL)** e **sites estáticos**, com deploy via **Docker + Nginx + SSL**, rollback e integração com GitHub.  
 
 ---
