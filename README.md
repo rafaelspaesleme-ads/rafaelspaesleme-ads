@@ -1,13 +1,17 @@
-# 👋 Olá, seja bem-vindo(a)!
+# 👋 Bem-vindo(a) ao meu GitHub!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=2F81F7&lines=Ol%C3%A1%2C+eu+sou+Rafael+Serdeiro+Paes+Leme!;Fullstack+Developer+%7C+DevOps+%7C+Cloud;Apaixonado+por+Java%2C+Docker+e+Seguran%C3%A7a+da+Info)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/Blog-GoPress.app-blue?style=for-the-badge&logo=google-chrome)](https://gopress.app/beta/devandcontainers)
 [![Instagram](https://img.shields.io/badge/Instagram-@devandcontainers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devandcontainers/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Serdeiro%20Paes%20Leme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Serdeiro%20Paes%20Leme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/rafaelspaeslemeads/))
 [![Twitter](https://img.shields.io/badge/Twitter-@rafaelserdeiro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaelserdeiro)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
-[![Gmail](https://img.shields.io/badge/Email-seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524981615515)
+[![Gmail](https://img.shields.io/badge/Email-seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelspaesleme.ads@gmail.com)
 
 ---
+
+## 🚀 Sobre mim
 
 Sou **Rafael Serdeiro Paes Leme**, tenho **33 anos** e atuo há mais de **10 anos na área de Tecnologia da Informação**.  
 Minha trajetória inclui **infraestrutura, desenvolvimento desktop, web e mobile, DevOps** e, atualmente, foco meus estudos em **Segurança da Informação**, especialmente na segurança de **aplicações Web/Mobile** e **LGPD**.  
@@ -35,20 +39,6 @@ Plataforma de **hospedagem de APIs, bancos de dados (SQL/NoSQL)** e **sites est�
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelserdeiro&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelserdeiro&layout=compact&theme=tokyonight)  
-
----
-
-## 📌 Alguns projetos públicos
-
-- **API de Envio de E-mail v1.0.0**  
-  Endpoint simples e seguro para envio de e-mails com anexos.  
-  > Necessário cadastro para obtenção de token de segurança.  
-
-- **Site para Escritório de Advocacia** (v1.0.0)  
-  Projeto fullstack documentado.  
-
-- **Aplicativo Web/Mobile para Personal Trainer e Alunos** (BETA)  
-  Gestão de treinos, alunos e agenda.  
 
 ---
 
