@@ -37,7 +37,7 @@ Plataforma de **hospedagem de APIs, bancos de dados (SQL/NoSQL)** e **sites est�
 
 ## 📊 Estatísticas GitHub  
 
-![Metrics](https://github.com/rafaelspaesleme-ads/rafaelspaesleme-ads/blob/main/github-metrics.svg)
+![Snake animation](https://github.com/rafaelspaesleme-ads/rafaelspaesleme-ads/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelspaesleme-ads&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelspaesleme-ads&layout=compact&theme=tokyonight&hide_progress=true&cache_seconds=21600)
