@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Serdeiro%20Paes%20Leme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/rafaelspaeslemeads/))
 [![Twitter](https://img.shields.io/badge/Twitter-@rafaelserdeiro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaelserdeiro)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524981615515)
-[![Gmail](https://img.shields.io/badge/Email-afaelspaesleme.ads@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelspaesleme.ads@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-rafaelspaesleme.ads@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelspaesleme.ads@gmail.com)
 
 ---
 
