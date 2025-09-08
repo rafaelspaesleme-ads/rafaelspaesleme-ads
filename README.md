@@ -25,7 +25,7 @@ Sempre fui apaixonado por tecnologia — em especial por:
 
 ### 🌐 [GoPress.app](https://gopress.app)
 Uma plataforma para **criadores de conteúdo** montarem seu próprio **jornal virtual**, com ferramentas modernas de publicação.  
-➡️ Versão Beta: [gopress.app/beta/devandcontainers](https://gopress.app/beta/devandcontainers)
+➡️ Versão Beta: [gopress.app](https://gopress.app)
 
 ### 🗄️ File Cabinet
 Plataforma de **armazenamento de arquivos na nuvem**, com **upload/download**, **compartilhamento seguro** e **organização em pastas**.  
