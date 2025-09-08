@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Rafael Serdeiro Paes Leme**, tenho **33 anos** e atuo há mais de **10 anos na área de Tecnologia da Informação**.  
+Sou **Rafael Serdeiro Paes Leme**, tenho **36 anos** e atuo há **15 anos na área de Tecnologia da Informação**.  
 Minha trajetória inclui **infraestrutura, desenvolvimento desktop, web e mobile, DevOps** e, atualmente, foco meus estudos em **Segurança da Informação**, especialmente na segurança de **aplicações Web/Mobile** e **LGPD**.  
 
 Sempre fui apaixonado por tecnologia — em especial por:  
