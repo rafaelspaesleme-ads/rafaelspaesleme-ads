@@ -1,170 +1,91 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h3>Olá!</h3>
+# 👋 Olá, seja bem-vindo(a)!
 
-<br/>
-    <strong>Sou Rafael Serdeiro Paes Leme, tenho  <b id="datebirth">33</b> anos,</strong>
-<p style="text-align: justify">
-    Trabalho a pouco mais de 10 anos na área da Tecnologia da Informação.
-    <br/> 
-    Com experiências em infra-estrutura, desenvolvimento desktop, web e mobile,
-    DevOps e atualmente, iniciando estudos na area de Segurança da Informação voltada para 
-    segurança no desenvolvimento de aplicações Web/Mobile e LGPD.
-</p>
-<br/>
-<p style="text-align: justify">
-    Sempre fui apaixonado por tecnologia, em especial, pelas seguintes: 
-    <br/>
-    <i>Java (Spring Boot), JavaScript (React & React Native), 
-    Linux, Docker, Kubernetes, 
-    e toda a arquitetura por traz da nuvem!</i>
-</p>
-<br/>
-<hr/>
-<br/>
-<strong>Veja abaixo, o que ando aprontando no Github</strong>
-<img width="50px" src="https://emoji.gg/assets/emoji/8237_among_us_vibing.gif"  alt="among"/>
-<br/>
-<li/>Estatisticas:
-<br/>
-<center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelspaesleme-ads&layout=compact&theme=onedark&locale=pt-BR" alt="principais-linguagens" />&nbsp;&nbsp;
-    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=rafaelspaesleme-ads&show_icons=true&theme=onedark&locale=pt-BR" alt="meus-honorarios" />
-</center>
-<br/>
-<br/>
-<li/> Principais projetos publicos:
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/pin?username=rafaelspaesleme-ads&repo=api-java-register-client-database&layout=compact&theme=onedark&locale=pt-BR" alt="meus-honorarios" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin?username=rafaelspaesleme-ads&repo=java-api-export-server-universal-spreadsheet&layout=compact&theme=onedark&locale=pt-BR" alt="meus-honorarios" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/pin?username=rafaelspaesleme-ads&repo=scripts-sh&layout=compact&theme=onedark&locale=pt-BR" alt="meus-honorarios" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin?username=rafaelspaesleme-ads&repo=dockerfile-db-postgres&layout=compact&theme=onedark&locale=pt-BR" alt="meus-honorarios" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/pin?username=rafaelspaesleme-ads&repo=dev-env&layout=compact&theme=onedark&locale=pt-BR" alt="meus-honorarios" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin?username=rafaelspaesleme-ads&repo=universal-docker&layout=compact&theme=onedark&locale=pt-BR" alt="meus-honorarios" />
-<br/>
-<br/>
+[![Blog](https://img.shields.io/badge/Blog-GoPress.app-blue?style=for-the-badge&logo=google-chrome)](https://gopress.app/beta/devandcontainers)
+[![Instagram](https://img.shields.io/badge/Instagram-@devandcontainers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devandcontainers/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Serdeiro%20Paes%20Leme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@rafaelserdeiro-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaelserdeiro)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
+[![Gmail](https://img.shields.io/badge/Email-seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-```
-Obs.: Poderia apresentar outros projetos, porém eles estão privados.
-Porém, alguns deles estão publicados, e pode ser visto nos links abaixo:
-```
-<br/>
-<hr/>
-<br/>
-<li/> BACKEND
+---
 
-<br/>
-<br/>
-<span id="api-mail" >API de Envio de Email - v1.0.0</span>
-<br/>
+Sou **Rafael Serdeiro Paes Leme**, tenho **33 anos** e atuo há mais de **10 anos na área de Tecnologia da Informação**.  
+Minha trajetória inclui **infraestrutura, desenvolvimento desktop, web e mobile, DevOps** e, atualmente, foco meus estudos em **Segurança da Informação**, especialmente na segurança de **aplicações Web/Mobile** e **LGPD**.  
 
-<a href="https://rpl-server-mail.herokuapp.com" target="_blank">Acessar</a>
+Sempre fui apaixonado por tecnologia — em especial por:  
+**Java (Spring Boot), JavaScript (React & React Native), Linux, Docker, Kubernetes** e por toda a arquitetura por trás da **nuvem** ☁️  
 
+---
 
-Parametros da API:
-```
-Method Http: POST
-Path: /email/enviar
-TypeData: Object
-```
-Atributos da API: 
+## 🚀 Projetos em destaque
 
-KEYNAME | TYPE | DESCRIPTION 
---- | --- | ---
-remetente | string | Pessoa que envia o email.
-destinatarios | [objectlist] | Uma lista do objeto destinatario.
-destinatarios.destinatario | string | Email de destino.
-destinatarios.ativo | boolean | Situação de envio do destinatário.
-assunto | string | Assunto do email.
-corpo | string or html | Corpo do email.
-anexos | [objectlist] | Uma lista do objeto anexo.
-anexos.urlAnexo | string | A url do caminho do anexo.
-anexos.anexo | file | O Arquivo do anexo.
-anexos.ativo | boolean | Situação do envio do anexo.
-ativo | boolean | Situação do envio do email.
+### 🌐 [GoPress.app](https://gopress.app)
+Uma plataforma para **criadores de conteúdo** montarem seu próprio **jornal virtual**, com ferramentas modernas de publicação.  
+➡️ Versão Beta: [gopress.app/beta/devandcontainers](https://gopress.app/beta/devandcontainers)
 
-```
-Obs.: It is necessary to register, to release a security token, 
-so that you have free access to the use of the API. To register, 
-contact me.
-```
+### 🗄️ File Cabinet
+Plataforma de **armazenamento de arquivos na nuvem**, com **upload/download**, **compartilhamento seguro** e **organização em pastas**.  
 
+### 🛠️ Hospedagem Cloud
+Plataforma de **hospedagem de APIs, bancos de dados (SQL/NoSQL)** e **sites estáticos**, com deploy via **Docker + Nginx + SSL**, rollback e integração com GitHub.  
 
-<li/> FULLSTACK
+---
 
-<a href="https://carolinerufino.adv.br/" target="_blank">Site de Escritório de Advocacia</a>
-<br/>
-<u style="color='yellow'"> Versão: 1.0.0</u>
-<br/>
-<span>A documentação completa deste projeto você encontra <a href="https://bityli.com/rk4Gk" target="_blank">aqui</a></span>
-<br/>
-<br/>
-<a href="https://mobway.fitness/" target="_blank">Aplicativo Web Mobile para Personal Trainer e Alunos</a>
-<br/>
-<u style="color='yellow'">Versão: BETA</u>
-<br/>
-<br/>
-Tecnologias envolvidas nos dois projetos:
-<br/>
-CLOUD | DEVOPS | DATABASE |  BACKEND | FRONTEND
---- | --- | --- | --- | ---
-AWS | Docker | PostgreSQL | Java | React Hooks
-Digital Ocean | Nginx | HyperSQL | Apache Maven | RSuiteJs
-Avante Web Services | Github | Amazon RDS | Spring Boot | React Semantic
-Heroku | Jenkins | -- | Amazon S3 | Material UI
-Raspberry Pi | Travis CI | -- | Shell Script | JavaScript
--- | Dynos | -- | SSL | Styled Component
--- | -- | -- | -- | SASS
--- | -- | -- | -- | PHP
--- | -- | -- | -- | HTML5
--- | -- | -- | -- | SSL
+## 📊 Estatísticas GitHub  
 
-<li/> CLOUD
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelserdeiro&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelserdeiro&layout=compact&theme=tokyonight)  
 
-<a href="https://avantewebservices.com.br/" target="_blank">Site de hospedagem de sites e banco de dados</a>
+---
 
-Breve descrição sobre:
-```
-Um empreendimento de um projeto de um site para hospedagem de sites e banco de dados
-de pequenos negócios, projetos de desenvolvedores freelancers, estudos e MEIS
-```
+## 📌 Alguns projetos públicos
 
-Para maiores informações, entre em contato comigo, através dos endereços abaixo:
+- **API de Envio de E-mail v1.0.0**  
+  Endpoint simples e seguro para envio de e-mails com anexos.  
+  > Necessário cadastro para obtenção de token de segurança.  
 
-<p align="center">
-  <a href="https://twitter.com/PaesSerdeiro" target="_blank">
-    <img src="https://img.shields.io/badge/-TWITTER-blue?style=for-the-badge&logo=Twitter&logoColor=white"  alt="twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rafaelspaeslemeads/" target="_blank">
-    <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white"  alt="linkedin"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5524981615515" target="_blank">
-    <img src="https://img.shields.io/badge/-WHATSAPP-success?style=for-the-badge&logo=Whatsapp&logoColor=white"  alt="whatsapp"/>
-  </a>
-  <a href="https://www.instagram.com/rafaelspaesleme/" target="_blank">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-blueviolet?style=for-the-badge&logo=Instagram&logoColor=white"  alt="instagram"/>
-  </a>
-  <a href="mailto:rafaelspaesleme.ads@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"  alt="gmail"/>
-  </a>
-</p>
-<br/>
-<span>
-    <img width="30px" src="https://images.emojiterra.com/google/android-nougat/512px/1f6a7.png"  alt="build1"/>
-    <br/>
-    <strong>Ultima observação:</strong> Em breve terminarei de desenvolver meu portfólio e atualizarei este readme.
-</span>
-<br/>
-<br/>
-<br/>
-<br/>
-<i>Valeu pessoal!</i>
-<br/>
-<img width="50px" src="https://i.pinimg.com/originals/d9/2e/10/d92e10f33bdc7ed0127a5ddd22e80828.gif"  alt="joinha"/>
-</body>
-</html>
+- **Site para Escritório de Advocacia** (v1.0.0)  
+  Projeto fullstack documentado.  
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rafaelspaesleme-ads.rafaelspaesleme-ads)
+- **Aplicativo Web/Mobile para Personal Trainer e Alunos** (BETA)  
+  Gestão de treinos, alunos e agenda.  
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Bancos de Dados:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Back-end:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Front-end:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 📌 Em breve...
+Estou finalizando meu **portfólio completo** para disponibilizar aqui no GitHub com ainda mais detalhes sobre meus projetos.  
+
+---
+
+👉 Valeu por visitar meu perfil!  
+Se curtiu, deixa aquela ⭐ nos repositórios! 🚀  
