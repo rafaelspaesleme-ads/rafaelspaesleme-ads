@@ -1,6 +1,6 @@
 # 👋 Bem-vindo(a) ao meu GitHub!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=2F81F7&lines=Ol%C3%A1%2C+eu+sou+Rafael+Serdeiro+Paes+Leme!;Fullstack+Developer+%7C+DevOps+%7C+Cloud;Apaixonado+por+Java%2C+Docker+e+Seguran%C3%A7a+da+Info)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=2F81F7&lines=Ol%C3%A1%2C+eu+sou+Rafael+Paes+Leme!;Fullstack+Developer+%7C+DevOps+%7C+Cloud;Apaixonado+por+Java%2C+Docker+e+Seguran%C3%A7a+da+Info)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/Blog-GoPress.app-blue?style=for-the-badge&logo=google-chrome)](https://gopress.app/beta/devandcontainers)
 [![Instagram](https://img.shields.io/badge/Instagram-@devandcontainers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devandcontainers/)
