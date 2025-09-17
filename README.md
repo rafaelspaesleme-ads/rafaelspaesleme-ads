@@ -27,6 +27,10 @@ Sempre fui apaixonado por tecnologia — em especial por:
 Uma plataforma para **criadores de conteúdo** montarem seu próprio **jornal virtual**, com ferramentas modernas de publicação.  
 ➡️ Versão Beta: [gopress.app](https://gopress.app)
 
+### 🌐 [Caderno do Professor](https://cadernodoprofessor.com.br)
+Uma plataforma criada especialmente para atender professores das redes pública e privada de ensino, oferecendo ferramentas práticas e intuitivas para facilitar o dia a dia na sala de aula.  
+➡️ Versão Beta: [caderno do professor](https://cadernodoprofessor.com.br)
+
 ### 🗄️ File Cabinet (Em breve)
 Plataforma de **armazenamento de arquivos na nuvem**, com **upload/download**, **compartilhamento seguro** e **organização em pastas**.  
 
