@@ -77,6 +77,13 @@ Plataforma de **hospedagem de APIs, bancos de dados (SQL/NoSQL)** e **sites est�
 
 ---
 
+## 📽 Siga meus canais no YouTube - 👨‍💻📻:
+[![YouTube](https://img.shields.io/badge/YouTube-@rafaelpaesleme--dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rafaelpaesleme-dev)
+[![YouTube](https://img.shields.io/badge/YouTube-@NullPointerLoFi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@rafaelpaesleme-dev](https://www.youtube.com/@NullPointerLoFi))
+
+
+---
+
 ## 📌 Em breve...
 Estou finalizando meu **portfólio completo** para disponibilizar aqui no GitHub com ainda mais detalhes sobre meus projetos.  
 
